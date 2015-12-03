@@ -70,6 +70,7 @@ return [
         'string'  => ':attribute deve ter :size caracteres.',
         'array'   => ':attribute deve conter :size itens.',
     ],
+    'string'               => ':attribute deve ser do tipo caracter',
     'timezone'             => ':attribute deve ser uma timezone válida.',
     'unique'               => ':attribute já está em uso.',
     'url'                  => 'O formato de :attribute é inválido.',
