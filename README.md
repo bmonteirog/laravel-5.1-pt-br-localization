@@ -6,7 +6,7 @@
 
   ```
   $ cd resources/lang/
-  $ git clone git@github.com:bmonteirog/laravel-5.1-pt-br-localization.git ./pt-br
+  $ git clone https://github.com/bmonteirog/laravel-5.1-pt-br-localization.git ./pt-br
   ```
 
   Você pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
